@@ -1,0 +1,4 @@
++ jsonwebtoken@8.5.1
+added 13 packages from 9 contributors and audited 274 packages in 3.838s
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
